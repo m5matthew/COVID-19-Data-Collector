@@ -1,7 +1,6 @@
 # COVID-19 Data Collection
 
 ## Data Collected
-Currently the following data is being collected
 - Geographic Area Name
 - Total Population
 - Population per square meter (Population Density)

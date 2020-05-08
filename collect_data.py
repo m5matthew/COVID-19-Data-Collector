@@ -27,7 +27,6 @@ def json_to_df(json_data, desired_columns):
     data = [x['attributes'] for x in json_data['features']]
     df = pd.DataFrame(data, columns=headers)
     df = df[desired_columns]
-    df
     df.rename(columns=headers, inplace=True)
     return df
 

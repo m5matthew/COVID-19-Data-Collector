@@ -1,4 +1,4 @@
-#COVID-19 Data Collection
+# COVID-19 Data Collection
 
 Currently the following data is being collected
 - Geographic Area Name

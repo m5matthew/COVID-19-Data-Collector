@@ -7,3 +7,6 @@ Currently the following data is being collected
 - Population 65 Years and Over
 - Percent of Population that is 65 Years and Over
 - Percentage of people whose income in the past 12 months is below the poverty level
+
+## Data Sources
+- https://uscensus.maps.arcgis.com/home/item.html?id=44883cd255c14e6386199acb802e1dbd

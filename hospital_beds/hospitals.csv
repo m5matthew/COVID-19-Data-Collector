@@ -1,4 +1,4 @@
-,Hospital Name,Hospital Type,City,County,State,# of Licensed Beds,# of Staffed Beds,# of ICU Beds,# of Adult ICU Beds,# of Pediatric ICU Beds,Bed Utilization Rate,Potential Increase in Bed Capacity,Average Ventilator Usage
+,Hospital Name,Hospital Type,City,County Name,State Name,# of Licensed Beds,# of Staffed Beds,# of ICU Beds,# of Adult ICU Beds,# of Pediatric ICU Beds,Bed Utilization Rate,Potential Increase in Bed Capacity,Average Ventilator Usage
 0,Phoenix VA Health Care System (AKA Carl T Hayden VA Medical Center),VA Hospital,Phoenix,Maricopa,Arizona,62.0,62.0,0,0,,,0,0.0
 1,Southern Arizona VA Health Care System,VA Hospital,Tucson,Pima,Arizona,295.0,295.0,2,2,,,0,2.0
 2,VA Central California Health Care System,VA Hospital,Fresno,Fresno,California,54.0,54.0,2,2,,,0,2.0

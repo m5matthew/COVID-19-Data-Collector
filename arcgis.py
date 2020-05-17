@@ -4,10 +4,13 @@ import pandas as pd
 
 # Convert ArcGIS json output to a dataframe
 def json_to_df(json_data, desired_columns):
+    headers = {}
+    for x in json_data['fields']:
+        headers[x['name']] = x['alias']
     data = [x['attributes'] for x in json_data['features']]
     df = pd.DataFrame(data)
     df = df[desired_columns.keys()]
-    df.rename(columns=desired_columns, inplace=True)
+    df.rename(columns=headers, inplace=True)
     return df
 
 

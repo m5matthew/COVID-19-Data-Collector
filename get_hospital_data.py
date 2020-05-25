@@ -66,7 +66,7 @@ def main():
         old_counties_df = pd.read_csv(counties_full_path, index_col=0)
 
         # Name new data column after today's date
-        today = str(pd.to_datetime("today").date())
+        today = pd.to_datetime("today").strftime(r"%m/%d/%Y")
         states_df.rename(columns={feature: today}, inplace=True)
         counties_df.rename(columns={feature: today}, inplace=True)
 

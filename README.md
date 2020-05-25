@@ -8,7 +8,7 @@
 - Percent of Population that is 65 Years and Over
 - Percentage of people whose income in the past 12 months is below the poverty level
 
-## Hospital Data
+## Hospital Bed Data
 - \# of Licensed Beds
 - \# of Staffed Beds
 - \# of ICU Beds

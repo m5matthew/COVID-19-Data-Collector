@@ -1,35 +1,35 @@
-,STATE_FIPS,STATE_NAME,05/24/2020
-0,4,Arizona,1586
-1,6,California,7266
-2,9,Connecticut,760
-3,10,Delaware,165
-4,11,District of Columbia,345
-5,12,Florida,5170
-6,16,Idaho,308
-7,22,Louisiana,1484
-8,28,Mississippi,10
-9,29,Missouri,2
-10,35,New Mexico,1
-11,36,New York,4
-12,38,North Dakota,1
-13,41,Oregon,0
-14,42,Pennsylvania,2
-15,1,Alabama,1506
-16,2,Alaska,159
-17,23,Maine,276
-18,24,Maryland,1049
-19,25,Massachusetts,1450
-20,5,Arkansas,829
-21,44,Rhode Island,2
-22,45,South Carolina,0
-23,54,West Virginia,1
-24,8,Colorado,1120
-25,13,Georgia,2677
-26,15,Hawaii,195
-27,17,Illinois,3093
-28,18,Indiana,1863
-29,19,Iowa,763
-30,20,Kansas,882
-31,21,Kentucky,1225
-32,26,Michigan,2394
-33,27,Minnesota,221
+,STATE_FIPS,STATE_NAME,05/24/2020,05/25/2020
+0,4,Arizona,1586,1586
+1,6,California,7266,7266
+2,9,Connecticut,760,760
+3,10,Delaware,165,165
+4,11,District of Columbia,345,345
+5,12,Florida,5170,5170
+6,16,Idaho,308,308
+7,22,Louisiana,1484,1484
+8,28,Mississippi,10,10
+9,29,Missouri,2,2
+10,35,New Mexico,1,1
+11,36,New York,4,4
+12,38,North Dakota,1,1
+13,41,Oregon,0,0
+14,42,Pennsylvania,2,2
+15,1,Alabama,1506,1506
+16,2,Alaska,159,159
+17,23,Maine,276,276
+18,24,Maryland,1049,1049
+19,25,Massachusetts,1450,1450
+20,5,Arkansas,829,829
+21,44,Rhode Island,2,2
+22,45,South Carolina,0,0
+23,54,West Virginia,1,1
+24,8,Colorado,1120,1120
+25,13,Georgia,2677,2677
+26,15,Hawaii,195,195
+27,17,Illinois,3093,3093
+28,18,Indiana,1863,1863
+29,19,Iowa,763,763
+30,20,Kansas,882,882
+31,21,Kentucky,1225,1225
+32,26,Michigan,2394,2394
+33,27,Minnesota,221,221

@@ -1,35 +1,35 @@
-,STATE_FIPS,STATE_NAME,05/24/2020
-0,4,Arizona,14847.0
-1,6,California,67169.0
-2,9,Connecticut,6205.0
-3,10,Delaware,1978.0
-4,11,District of Columbia,3437.0
-5,12,Florida,51888.0
-6,16,Idaho,2735.0
-7,22,Louisiana,14969.0
-8,28,Mississippi,160.0
-9,29,Missouri,89.0
-10,35,New Mexico,163.0
-11,36,New York,378.0
-12,38,North Dakota,37.0
-13,41,Oregon,0.0
-14,42,Pennsylvania,146.0
-15,1,Alabama,16309.0
-16,2,Alaska,1379.0
-17,23,Maine,3494.0
-18,24,Maryland,9340.0
-19,25,Massachusetts,13908.0
-20,5,Arkansas,10280.0
-21,44,Rhode Island,73.0
-22,45,South Carolina,132.0
-23,54,West Virginia,67.0
-24,8,Colorado,10661.0
-25,13,Georgia,23863.0
-26,15,Hawaii,2146.0
-27,17,Illinois,33292.0
-28,18,Indiana,14464.0
-29,19,Iowa,11151.0
-30,20,Kansas,10348.0
-31,21,Kentucky,12523.0
-32,26,Michigan,23107.0
-33,27,Minnesota,2340.0
+,STATE_FIPS,STATE_NAME,05/24/2020,05/25/2020
+0,4,Arizona,14847.0,14847.0
+1,6,California,67169.0,67169.0
+2,9,Connecticut,6205.0,6205.0
+3,10,Delaware,1978.0,1978.0
+4,11,District of Columbia,3437.0,3437.0
+5,12,Florida,51888.0,51888.0
+6,16,Idaho,2735.0,2735.0
+7,22,Louisiana,14969.0,14969.0
+8,28,Mississippi,160.0,160.0
+9,29,Missouri,89.0,89.0
+10,35,New Mexico,163.0,163.0
+11,36,New York,378.0,378.0
+12,38,North Dakota,37.0,37.0
+13,41,Oregon,0.0,0.0
+14,42,Pennsylvania,146.0,146.0
+15,1,Alabama,16309.0,16309.0
+16,2,Alaska,1379.0,1379.0
+17,23,Maine,3494.0,3494.0
+18,24,Maryland,9340.0,9340.0
+19,25,Massachusetts,13908.0,13908.0
+20,5,Arkansas,10280.0,10280.0
+21,44,Rhode Island,73.0,73.0
+22,45,South Carolina,132.0,132.0
+23,54,West Virginia,67.0,67.0
+24,8,Colorado,10661.0,10661.0
+25,13,Georgia,23863.0,23863.0
+26,15,Hawaii,2146.0,2146.0
+27,17,Illinois,33292.0,33292.0
+28,18,Indiana,14464.0,14464.0
+29,19,Iowa,11151.0,11151.0
+30,20,Kansas,10348.0,10348.0
+31,21,Kentucky,12523.0,12523.0
+32,26,Michigan,23107.0,23107.0
+33,27,Minnesota,2340.0,2340.0
